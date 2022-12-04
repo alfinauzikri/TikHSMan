@@ -1,2 +1,4 @@
 # TikHSMan
-Mikrotik HotSpot Manager System
+Mikrotik HotSpot Manager - Easy register, authenticate clients and monitor your hotspot
+
+Coming soon..
